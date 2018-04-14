@@ -1,3 +1,3 @@
 # coursera-bootstrap
 Coursera Bootstrap assignments
-Week-1 and Week-2
+Week-1, Week-2 and Week-3
